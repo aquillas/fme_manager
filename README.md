@@ -1,6 +1,6 @@
 ﻿# FME Manager
 
-Serviço em Node.js para gerenciamento do FME Workbench 2018 ([SAFE Software](https://www.safe.com/))
+Serviço em Node.js para gerenciamento do FME Workbench ([SAFE Software](https://www.safe.com/))
 
 As vantagens são:
 * Versionamento e centralização de rotinas do FME
